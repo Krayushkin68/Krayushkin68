@@ -6,7 +6,7 @@
   - **Web applications** (django, flusk)
   - **Mobile development** (python kivy) and telegram bots
   - **SQL Databases**
-- 💞️ I’m looking to collaborate on various projects.
+- 💞️ I want to take part in various projects.
 - 📫 How to reach me: telegram @Kray68
 
 <!---
