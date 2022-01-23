@@ -22,7 +22,16 @@
     - ***NoSQL***: MongoDB
     
 	***Environment & Tools:*** Git, Docker
-  
+	
+  	***Educational roadmap:***
+	- in-depth study of:
+		- design patterns
+		- algorithms
+	- Going deeper into asyncio
+	- Implementing Unit Testing in Projects
+	- Celery
+	- Redis
+	- Elasticsearch
 - 📫 How to reach me: telegram @Kray68
 
 
