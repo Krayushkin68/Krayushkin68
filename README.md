@@ -1,13 +1,30 @@
-- 👋 Hi, I’m @Krayushkin68
-- 👀 I’m interested in Python programming, namely:
-  - **Desktop software development** (PyQt5, PySide2)
-  - **Data scraping** (BeautifulSoup, requests)
-  - **Data science** (pandas, numpy, opencv)
-  - **Web applications** (django, flusk)
-  - **Mobile development** (python kivy) and telegram bots
-  - **SQL Databases**
-- 💞️ I want to take part in various projects.
+ - 👋 Hi, I’m @Krayushkin68
+ - 👀 I’m interested in software development, my technical stack is:
+
+	***Programming language:*** 
+    - Python
+  
+	***Frameworks / Libraries:***
+    - Django
+    - Flask
+    - Beautiful Soup
+    - Selenium
+    - requests
+    - Pandas
+    - Numpy
+    - PyQT
+    - aiogram
+ 
+	***Databases:***
+
+    - ***SQL***: SQLite, MS SQL Server, PostgreSQL
+ 
+    - ***NoSQL***: MongoDB
+    
+	***Environment & Tools:*** Git, Docker
+  
 - 📫 How to reach me: telegram @Kray68
+
 
 <!---
 Krayushkin68/Krayushkin68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
