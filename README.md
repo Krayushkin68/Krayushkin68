@@ -9,11 +9,12 @@
     - Flask
     - Beautiful Soup
     - Selenium
-    - requests
+    - requests / aiohttp
     - Pandas
     - Numpy
-    - PyQT
+    - PyQT / PySide
     - aiogram
+    - graphene
  
 	***Databases:***
 
@@ -27,7 +28,7 @@
 	- in-depth study of:
 		- design patterns
 		- algorithms
-	- Going deeper into asyncio
+	- Going deeper into asyncio 
 	- Implementing Unit Testing in Projects
 	- Celery
 	- Redis
