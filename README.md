@@ -1,38 +1,14 @@
  - 👋 Hi, I’m @Krayushkin68
- - 👀 I’m interested in software development, my technical stack is:
+ - 👀 I’m a software engineer:
 
-	***Programming language:*** 
-    - Python
+	***Technical stack:*** 
+    - Python (asyncio, Django, DRF, Flask, Pandas, NumPy, aiogram, aiokafka, opentelemetry)
+    - C# (ASP.NET Core, Entity Framework)
+    - JavaScript (VueJS, JQuery)
+    - Databases (MS SQL Server, PostgreSQL, ClickHouse)
+    - Environment & Tools (Git, Docker)
   
-	***Frameworks / Libraries:***
-    - Django
-    - Flask
-    - Beautiful Soup
-    - Selenium
-    - requests / aiohttp
-    - Pandas
-    - Numpy
-    - PyQT / PySide
-    - aiogram
-    - graphene
- 
-	***Databases:***
 
-    - ***SQL***: SQLite, MS SQL Server, PostgreSQL
- 
-    - ***NoSQL***: MongoDB
-    
-	***Environment & Tools:*** Git, Docker
-	
-  	***Educational roadmap:***
-	- in-depth study of:
-		- design patterns
-		- algorithms
-	- Going deeper into asyncio 
-	- Implementing Unit Testing in Projects
-	- Celery
-	- Redis
-	- Elasticsearch
 - 📫 How to reach me: telegram @Kray68
 
 
